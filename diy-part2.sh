@@ -11,4 +11,4 @@
 #
 
 #### 稳定版修改R21xxx+自己的名字
-sed -i 's/R22.3.13/Build $(TZ=UTC-8 date "+%Y.%m.%d") By JJ/g' package/lean/default-settings/files/zzz-default-settings
+sed -i 's/R22.4.1/Build $(TZ=UTC-8 date "+%Y.%m.%d") By JJ/g' package/lean/default-settings/files/zzz-default-settings
